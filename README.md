@@ -7,8 +7,7 @@ It helped me visualize how different tags and sections work together in a full H
 ![image](https://github.com/user-attachments/assets/aa10663e-11cb-4387-8ca8-acebd57f1c4b)
 
 # HTML FULL NOTES
-
-by [﻿Venkatesan G](https://www.linkedin.com/in/venkatesan-tech/)﻿
+﻿
 
 # **1. Basic Structure**
 The basic structure of any HTML document is as follows:
